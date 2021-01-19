@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <h1>疫情防控系统</h1>
     <router-view/>
   </div>
 </template>
